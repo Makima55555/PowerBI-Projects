@@ -45,3 +45,6 @@ An analysis of the top 10 publishers based on the number of games released from 
 ## 10. Top 100 Games by Publisher
 ![Top 100 Games Proportions](https://github.com/Makima55555/PowerBI-Projects/blob/main/proportions.png)
 The top 100 games on the leaderboard primarily come from the above companies.
+
+
+© 2024 Makima55555. All rights reserved.
