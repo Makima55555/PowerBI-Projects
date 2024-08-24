@@ -2,9 +2,9 @@
 
 This repository showcases a series of Power BI projects that analyze the gaming market from various perspectives, including sales trends, regional differences, and popular platforms and genres.
 
-## 1. Overview of Gaming Market Sales Trends (2015-2020)
+## 1. Overview of Gaming Market Sales Trends
 ![Overview Dashboard](https://github.com/Makima55555/PowerBI-Projects/blob/main/Overview.png)
-This dashboard visualizes the overall sales trends in the gaming market from 2015 to 2020, providing a macro perspective on the industry's growth.
+This dashboard visualizes the overall sales trends in the gaming market in the past 4 decades, providing a macro perspective on the industry's growth.
 
 ## 2. Regional Sales Analysis
 ![Regional Sales](https://github.com/Makima55555/PowerBI-Projects/blob/main/regional%20sales.png)
